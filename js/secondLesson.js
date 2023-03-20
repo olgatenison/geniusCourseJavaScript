@@ -73,11 +73,11 @@
 //Зробіть сервіс який отримує тризначне число
 //Поверніть користувачу сумму цих чисел
 
-const abc = prompt("введіть тризначне число:");
-console.log(`ви ввели ${abc}`);
-let a = Number(abc[0]);
-let b = Number(abc[1]);
-let c = Number(abc[2]);
+// const abc = prompt("введіть тризначне число:");
+// console.log(`ви ввели ${abc}`);
+// let a = Number(abc[0]);
+// let b = Number(abc[1]);
+// let c = Number(abc[2]);
 
-let result = a + b + c;
-console.log(result);
+// let result = a + b + c;
+// console.log(result);
